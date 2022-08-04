@@ -1,7 +1,6 @@
 ## Welcome to jonafk555's page
----
 
-### whoami
+## whoami
 
 - A university student major in Chemistry, Chemical Biology.
 - A cybersecurity amateur player, major in web security.
